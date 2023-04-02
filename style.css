@@ -1,0 +1,46 @@
+.test_img_and_result
+{
+    color: darkblue;
+    background-color: rgb(204, 204, 204);
+    border-radius: 12px;
+    border-color: black;
+}
+
+.google
+{
+    background-color: white;
+    border-radius: 12px;
+}
+
+.mobilenet
+{
+    background-color: white;
+    border-radius: 12px;
+}
+
+.copy_right_footer
+  {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(139, 166, 189);
+    line-height: 3;
+    text-align: center;
+  }
+
+#result
+{
+  color: darkblue;
+  background-color: rgb(228, 187, 236);
+  border-radius: 12px;
+  border-color: black;
+}  
+
+#space
+{
+  color: white;
+  background-color: white;
+  border-radius: 12px;
+  border-color: white;
+}
